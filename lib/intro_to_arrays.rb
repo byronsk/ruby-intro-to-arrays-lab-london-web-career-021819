@@ -20,4 +20,5 @@ def last_element(array)
 end
 
 def length_of_array(array)
-  
+  array.length
+end
