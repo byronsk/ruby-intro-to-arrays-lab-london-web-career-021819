@@ -6,3 +6,7 @@ end
 def array_with_two_elements
   @my_new_array = ["sky", "sea"]
 end
+
+def first_element(array)
+  @my_new_array[0]
+end
